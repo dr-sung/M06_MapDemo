@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">M06_MapDemo</string>
+    <string name="title_activity_maps">MapDemo</string>
+    <string name="cs_button_label">CS</string>
+    <string name="lib_button_label">Lib</string>
+    <string name="title_cs">Computer Science</string>
+    <string name="title_lib">Library</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">Your KEY Here!!!</string>
+
+</resources>
